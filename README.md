@@ -1,59 +1,309 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=venom&color=000000&height=200&section=header&text=[YOUR%20NAME]&fontSize=90&fontAlignY=40&fontColor=FFD700" />
 
-  <h3> ⚡ ᴄʏʙᴇʀᴘᴜɴᴋ_ᴇɴɢɪɴᴇᴇʀ.ᴇxᴇ ⚡ </h3>
+<!-- CYBERPUNK LOGO STYLE NAME - Sharp italic, neon glow SVG -->
+<svg width="800" height="160" viewBox="0 0 800 160" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="neon-cyan">
+      <feGaussianBlur stdDeviation="4" result="blur1"/>
+      <feGaussianBlur stdDeviation="8" result="blur2"/>
+      <feGaussianBlur stdDeviation="16" result="blur3"/>
+      <feMerge>
+        <feMergeNode in="blur3"/>
+        <feMergeNode in="blur2"/>
+        <feMergeNode in="blur1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="neon-pink">
+      <feGaussianBlur stdDeviation="3" result="blur1"/>
+      <feGaussianBlur stdDeviation="6" result="blur2"/>
+      <feMerge>
+        <feMergeNode in="blur2"/>
+        <feMergeNode in="blur1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="chrome" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#ffffff;stop-opacity:1"/>
+      <stop offset="35%" style="stop-color:#FF0000;stop-opacity:1"/>
+      <stop offset="70%" style="stop-color:#CC0000;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#660000;stop-opacity:1"/>
+    </linearGradient>
+    <style>
+      .name-text {
+        font-family: 'Arial Black', 'Impact', sans-serif;
+        font-size: 88px;
+        font-weight: 900;
+        font-style: italic;
+        letter-spacing: -2px;
+        fill: url(#chrome);
+        filter: url(#neon-cyan);
+      }
+      .sub-text {
+        font-family: 'Arial', sans-serif;
+        font-size: 13px;
+        font-style: italic;
+        letter-spacing: 8px;
+        fill: #CC0000;
+        filter: url(#neon-pink);
+      }
+    </style>
+  </defs>
+  <rect width="800" height="160" fill="#000000"/>
+  <!-- Decorative slash lines like CP2077 logo -->
+  <polygon points="0,140 30,100 800,100 800,110 30,110 0,150" fill="#FF0000" opacity="0.15"/>
+  <polygon points="0,148 20,112 800,112 800,116 20,116 0,152" fill="#CC0000" opacity="0.1"/>
+  <!-- Main name -->
+  <text x="50%" y="108" text-anchor="middle" class="name-text">SANJAY SIVA</text>
+  <!-- Subtitle -->
+  <text x="50%" y="138" text-anchor="middle" class="sub-text">ML ENGINEER  ◈  AI RESEARCHER  ◈  BUILDER</text>
+</svg>
 
-  <p align="center">
-    <img src="https://img.shields.io/badge/STATUS-ENCRYPTED-gold?style=flat-square&logo=ghostery&logoColor=black" />
-    <img src="https://img.shields.io/badge/LOCATION-NEO_TOKYO-black?style=flat-square&logo=googlemaps&logoColor=gold" />
-    <img src="https://img.shields.io/badge/ROLE-SOFTWARE_ARCHITECT-gold?style=flat-square&logo=linux&logoColor=black" />
-  </p>
+<!-- SCANLINE DIVIDER -->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"/>
+
+<!-- TYPING ANIMATION -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=2500&pause=800&color=FF0000&background=00000000&center=true&vCenter=true&width=650&lines=Training+models+that+actually+work.;Building+drones+that+think+for+themselves.;From+cattle+detection+to+football+analytics.;Always+learning.+Always+building." alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- BADGES -->
+<a href="https://github.com/SanjaySiva-2437">
+  <img src="https://img.shields.io/github/followers/SanjaySiva-2437?label=Followers&style=for-the-badge&color=FF0000&labelColor=000000&logo=github&logoColor=FF0000"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=SanjaySiva-2437&style=for-the-badge&color=CC0000&label=Profile+Views&labelColor=000000"/>
+<img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-FF3333?style=for-the-badge&labelColor=000000"/>
+
 </div>
 
----
-
-### 📂 SYSTEM_LOG
-> **User:** `[YourUsername]`  
-> **Access_Level:** `Administrator`  
-> **Objective:** Building the future, one line of code at a time.
-
-- 🧬 **Currently decoding:** [Project Name/Language you are learning]
-- 📡 **Active Transmissions:** [Link to your website or blog]
-- 🛠️ **System Specs:** [MacBook Pro / Custom PC / etc.]
-- 💬 **Ask me about:** `Python`, `Cybersecurity`, `UI/UX`
+<br/>
 
 ---
 
-### 🛠 TECH_AUGMENTATIONS
+<img align="right" width="280" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"/>
+
+### `> whoami`
+
+```python
+sanjay = {
+    "name"      : "Sanjay Siva",
+    "location"  : "Chennai, India 🌏",
+    "education" : "B.Tech CSE (AI & ML) @ SRM IST",
+    "role"      : "ML Engineer · AI Researcher · Builder",
+    "interests" : ["Computer Vision", "Autonomous Systems",
+                   "Generative AI", "Robotics"],
+    "learning"  : ["Diffusion Models", "RL", "LLM Fine-tuning"],
+    "skills"    : {
+        "Python"       : "████████████░  90%",
+        "Deep Learning": "██████████░░░  78%",
+        "Flutter"      : "█████████░░░░  70%",
+        "Robotics/ROS" : "████████░░░░░  65%",
+        "Vibes"        : "█████████████  99%",
+    },
+    "open_to"   : ["Research", "Internships", "Collabs"]
+}
+```
+
+<br clear="right"/>
+
+---
+
+## ◈ Tech Stack `// loadout`
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFD700" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FFD700" />
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=FFD700" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=FFD700" />
-  <br>
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=FFD700" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=FFD700" />
-  <img src="https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss&logoColor=FFD700" />
-  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=FFD700" />
+
+<table>
+<tr>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" width="48"/><br/>
+  <sub><b>Python</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="48"/><br/>
+  <sub><b>PyTorch</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="48"/><br/>
+  <sub><b>TensorFlow</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=flutter&theme=dark" width="48"/><br/>
+  <sub><b>Flutter</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=opencv&theme=dark" width="48"/><br/>
+  <sub><b>OpenCV</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48"/><br/>
+  <sub><b>Docker</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="48"/><br/>
+  <sub><b>Linux</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" width="48"/><br/>
+  <sub><b>Git</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="48"/><br/>
+  <sub><b>FastAPI</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=dart&theme=dark" width="48"/><br/>
+  <sub><b>Dart</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="48"/><br/>
+  <sub><b>Firebase</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48"/><br/>
+  <sub><b>VS Code</b></sub>
+</td>
+</tr>
+</table>
+
+![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-Transformers-CC0000?style=for-the-badge&labelColor=000000)
+![YOLOv8](https://img.shields.io/badge/⚡_YOLOv8-Object_Detection-FF0000?style=for-the-badge&labelColor=000000)
+![ROS](https://img.shields.io/badge/🤖_ROS-Robotics_OS-CC0000?style=for-the-badge&labelColor=000000)
+![SLAM](https://img.shields.io/badge/🛸_SLAM-Visual_Odometry-FF3333?style=for-the-badge&labelColor=000000)
+
 </div>
 
 ---
 
-### 📊 NETWORK_STATS
+## ◈ Projects `// what I've built`
+
+```
+╔═══════════════════════════════════════════════════════════════════╗
+║  🚁  VALAMTECH                                    [STATUS: DONE] ║
+╠═══════════════════════════════════════════════════════════════════╣
+║  Autonomous fertilizer drone with precision agriculture AI.      ║
+║  Computer vision-guided flight. Real fields. Real impact.        ║
+║  Not a demo — an actual flying machine that makes decisions.     ║
+║                                                                   ║
+║  STACK →  Python · OpenCV · ROS · PyTorch · Flight Controller    ║
+╚═══════════════════════════════════════════════════════════════════╝
+
+╔═══════════════════════════════════════════════════════════════════╗
+║  🐄  CATTLEGO                                     [STATUS: DONE] ║
+╠═══════════════════════════════════════════════════════════════════╣
+║  Deep learning cattle breed identification system.               ║
+║  Computer vision model + Flutter mobile app. Field-deployable.   ║
+║  Real-world CV applied to real-world agriculture.                ║
+║                                                                   ║
+║  STACK →  Python · TensorFlow · CNN · Flutter · Firebase         ║
+╚═══════════════════════════════════════════════════════════════════╝
+
+╔═══════════════════════════════════════════════════════════════════╗
+║  🛸  GPS-DENIED DRONE                             [STATUS: DONE] ║
+╠═══════════════════════════════════════════════════════════════════╣
+║  Autonomous drone navigation with zero GPS signal.               ║
+║  Visual odometry + sensor fusion for self-localization.          ║
+║  Built for environments where infrastructure can't be assumed.   ║
+║                                                                   ║
+║  STACK →  Python · OpenCV · IMU Fusion · ROS · SLAM              ║
+╚═══════════════════════════════════════════════════════════════════╝
+
+╔═══════════════════════════════════════════════════════════════════╗
+║  ⚽  FOOTBALL PLAYER ANALYSIS AI         [STATUS: IN PROGRESS ░░] ║
+╠═══════════════════════════════════════════════════════════════════╣
+║  AI-powered football analytics from match footage.               ║
+║  Player tracking · movement heatmaps · performance insights.     ║
+║  Bridging computer vision and sports intelligence.               ║
+║                                                                   ║
+║  STACK →  Python · PyTorch · YOLOv8 · ByteTrack · Coming Soon   ║
+╚═══════════════════════════════════════════════════════════════════╝
+```
+
+---
+
+## ◈ GitHub Stats `// metrics`
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=vue-dark&bg_color=000000&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700&border_color=FFD700" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YourUsername]&layout=compact&theme=vue-dark&bg_color=000000&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700&border_color=FFD700" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=SanjaySiva-2437&show_icons=true&bg_color=000000&title_color=FF0000&text_color=CC0000&icon_color=FF3333&border_color=FF0000&count_private=true&border_radius=0" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjaySiva-2437&layout=compact&bg_color=000000&title_color=FF0000&text_color=CC0000&border_color=FF0000&border_radius=0" height="170"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SanjaySiva-2437&background=000000&ring=FF0000&fire=CC0000&currStreakLabel=FF0000&sideLabels=FF3333&dates=555555&border=FF0000" width="520"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SanjaySiva-2437&bg_color=000000&color=FF0000&line=CC0000&point=FF3333&area=true&area_color=1a0000&border_color=FF0000" width="100%"/>
+
 </div>
 
 ---
 
-### 📟 ENCRYPTED_COMMUNICATION
+## ◈ About Me `// beyond the code`
 
-```yaml
-contact:
-  email: "[your.email@example.com]"
-  discord: "[User#0000]"
-  linkedin: "[[linkedin.com/in/username](https://linkedin.com/in/username)]"
-  terminal: "ssh root@cyberpunk.local"
+<div align="center">
+
+| | |
+|:---:|:---|
+| 🎮 | Big fan of open-world games with deep storytelling |
+| 🎵 | Lo-fi · Phonk · Game soundtracks — always on in the background |
+| 🌆 | Best work happens late at night |
+| 🧠 | Currently deep in: Diffusion models, RL, LLM fine-tuning |
+| ☕ | Coffee → Code → Ship → Repeat |
+| 🔮 | Goal: Build AI that genuinely changes how people live and work |
+| 🤝 | Always open to research collabs, internships & building cool things |
+
+</div>
+
+---
+
+## ◈ Goals `// what's next`
+
+```
+[✓] Learned ML & Deep Learning fundamentals
+[✓] Shipped CattleGo — CV system deployed in the real world
+[✓] Built & flew ValamTech — autonomous precision agriculture drone
+[✓] Solved GPS-denied navigation with visual odometry & sensor fusion
+[ ] Ship Football Player Analysis AI
+[ ] Contribute to a major open-source ML project
+[ ] Publish a research paper
+[ ] Land a role at a top-tier AI company
+[ ] Build something used by 10,000+ people
+```
+
+---
+
+## ◈ Connect `// reach out`
+
+<div align="center">
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-FF0000?style=for-the-badge&logo=linkedin&logoColor=FF0000&labelColor=000000&color=000000"/>
+</a>
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/Email-Get%20in%20touch-CC0000?style=for-the-badge&logo=gmail&logoColor=CC0000&labelColor=000000&color=000000"/>
+</a>
+<a href="https://twitter.com/YOUR_TWITTER">
+  <img src="https://img.shields.io/badge/Twitter-Follow-FF3333?style=for-the-badge&logo=twitter&logoColor=FF3333&labelColor=000000&color=000000"/>
+</a>
+<a href="https://YOUR_PORTFOLIO">
+  <img src="https://img.shields.io/badge/Portfolio-View%20Work-FF0000?style=for-the-badge&logo=vercel&logoColor=FF0000&labelColor=000000&color=000000"/>
+</a>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/SanjaySiva-2437/SanjaySiva-2437/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=glitch&color=0:000000,50:1a0000,100:000000&height=100&section=footer&text=Always+Learning.+Always+Building.&fontSize=22&fontColor=FF0000&fontAlignY=55&animation=glitch" width="100%"/>
+
+</div>
