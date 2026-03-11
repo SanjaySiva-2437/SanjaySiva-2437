@@ -1,143 +1,220 @@
+<!-- ████████████████████████████████████████████████████████████ -->
+<!-- ██                                                        ██ -->
+<!-- ██   SANJAY SIVA — GITHUB PROFILE README                 ██ -->
+<!-- ██   Theme: Cyberpunk 2077 × Night City                  ██ -->
+<!-- ██                                                        ██ -->
+<!-- ████████████████████████████████████████████████████████████ -->
+
 <div align="center">
 
-<!-- Animated header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0a00,30:8B1A1A,60:FF6B00,80:FFD700,100:00FFFF&height=200&section=header&text=Sanjay%20Siva&fontSize=60&fontColor=FFD700&fontAlignY=38&desc=ML%20Engineer%20%7C%20AI%20Researcher%20%7C%20Digital%20Outlaw&descAlignY=58&descSize=18&descColor=00FFFF&animation=fadeIn" width="100%"/>
+<!-- ANIMATED CYBERPUNK HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,40:0d0d0d,70:001a1a,100:000000&height=220&section=header&text=SANJAY%20SIVA&fontSize=72&fontColor=00FFFF&fontAlignY=40&stroke=FF007F&strokeWidth=3&desc=◈%20ML%20ENGINEER%20◈%20AI%20RESEARCHER%20◈%20DIGITAL%20ARCHITECT%20◈&descSize=16&descColor=FF007F&descAlignY=62&animation=fadeIn" width="100%"/>
 
-<!-- Typing animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=1000&color=FF6B00&center=true&vCenter=true&multiline=false&width=600&lines=Building+intelligent+systems+by+day...;Roaming+Night+City+by+night+%F0%9F%8C%86;Teaching+machines+to+think%2C+one+epoch+at+a+time;%22You%27ve+got+a+lotta+nerve%2C+kid.%22+-+The+AI+I+trained" alt="Typing SVG" /></a>
+<!-- GLITCH TYPING ANIMATION -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=2500&pause=800&color=00FFFF&center=true&vCenter=true&width=700&lines=%3E+Initializing+neural+interface...;%3E+Loading+SanjaySiva-2437.exe...;%3E+Teaching+machines+to+think+since+2022;%3E+Autonomous+drones+%E2%9C%94+%7C+CV+systems+%E2%9C%94+%7C+GPS-denied+nav+%E2%9C%94;%3E+Currently+building%3A+Football+AI+%5BACTIVE%5D;%3E+Status%3A+Jacked+in+%26+fully+operational+%E2%9A%A1" alt="Typing SVG" />
+</a>
 
 <br/>
 
-<!-- Social badges -->
-[![GitHub followers](https://img.shields.io/github/followers/SanjaySiva-2437?label=Follow&style=for-the-badge&color=FF6B00&labelColor=1a0a00&logo=github)](https://github.com/SanjaySiva-2437)
-[![Profile Views](https://komarev.com/ghpvc/?username=SanjaySiva-2437&style=for-the-badge&color=FFD700&label=VISITORS&base=500)](https://github.com/SanjaySiva-2437)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<!-- BADGES ROW -->
+<a href="https://github.com/SanjaySiva-2437">
+  <img src="https://img.shields.io/github/followers/SanjaySiva-2437?label=◈%20NETRUNNERS&style=for-the-badge&color=00FFFF&labelColor=000000&logo=github&logoColor=00FFFF"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=SanjaySiva-2437&style=for-the-badge&color=FF007F&label=◈%20JACKS%20IN&labelColor=000000"/>
+<img src="https://img.shields.io/badge/◈%20STATUS-ONLINE-00FF41?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/◈%20LOCATION-NIGHT%20CITY%2C%20IN-FF007F?style=for-the-badge&labelColor=000000"/>
 
 </div>
 
+<br/>
+
 ---
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd1b2R6bmhqNW9ucDRsMWZudjFwa3pzdGtlbDI4bGlyOXhteW42ZiZlcD12MV9pbnRlcm5hbGdfZ2lmX2J5X2lkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" width="300" style="border-radius:12px"/>
+<img align="right" width="280" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGd4bGhhNmlra3lzdWszbnhic3ZtNzRzeHplcHY5NXNtMmlienFhbSZlcD12MV9pbnRlcm5hbGdfZ2lmX2J5X2lkJmN0PWc/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
-### 🤠 `whoami`
-
-```python
-sanjay = {
-    "name"      : "Sanjay Siva",
-    "handle"    : "SanjaySiva-2437",
-    "location"  : "Chennai, India 🌏",
-    "education" : "B.Tech CSE (AI & ML) @ SRM IST",
-    "currently" : "Building models that don't hallucinate (mostly)",
-    "stack"     : ["Python", "Flutter", "PyTorch", "TensorFlow"],
-    "obsessions": ["Neural Nets", "Game AI", "Generative Models"],
-    "playlist"  : "Lo-fi beats while training on 3AM datasets 🎧",
-    "games"     : ["Red Dead Redemption 2 🤠", "Cyberpunk 2077 🌆"],
-    "motto"     : "The night is still young and the GPU is still warm."
-}
+```
+╔══════════════════════════════════════╗
+║         ◈  NEURAL IDENTITY ◈         ║
+╠══════════════════════════════════════╣
+║  HANDLE   │  SanjaySiva-2437         ║
+║  CLASS    │  ML Engineer / Builder   ║
+║  FACTION  │  SRM IST — AI & ML       ║
+║  CITY     │  Chennai, India          ║
+║  STACK    │  Python · Flutter · ML   ║
+║  SIDE GIG │  Drone Architect 🚁      ║
+║  MUSIC    │  Lo-fi · Hyperpop · OST  ║
+║  GAMES    │  Cyberpunk 2077 🌆        ║
+║  THREAT   │  HIGH  ██████████  100%  ║
+╚══════════════════════════════════════╝
 ```
 
 <br clear="right"/>
 
 ---
 
-## ⚡ Tech Arsenal
+## `⟨ 01 ⟩` ◈ TECH IMPLANTS
 
 <div align="center">
 
-<!-- Languages -->
-![Python](https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=1a0a00)
-![Dart](https://img.shields.io/badge/Dart-00FFFF?style=for-the-badge&logo=dart&logoColor=1a0a00)
-![C++](https://img.shields.io/badge/C++-FF6B00?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-8B1A1A?style=for-the-badge&logo=postgresql&logoColor=FFD700)
+**`▸ LANGUAGES`**
 
-<!-- ML/AI -->
-![PyTorch](https://img.shields.io/badge/PyTorch-FF6B00?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FFD700?style=for-the-badge&logo=tensorflow&logoColor=1a0a00)
-![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-FF6B00?style=for-the-badge&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/sklearn-00FFFF?style=for-the-badge&logo=scikit-learn&logoColor=1a0a00)
-![OpenCV](https://img.shields.io/badge/OpenCV-8B1A1A?style=for-the-badge&logo=opencv&logoColor=FFD700)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FFFF)
+![Dart](https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=FF007F)
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=00FFFF)
+![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=FF007F)
 
-<!-- Frameworks / Tools -->
-![Flutter](https://img.shields.io/badge/Flutter-00FFFF?style=for-the-badge&logo=flutter&logoColor=1a0a00)
-![FastAPI](https://img.shields.io/badge/FastAPI-FFD700?style=for-the-badge&logo=fastapi&logoColor=1a0a00)
-![Docker](https://img.shields.io/badge/Docker-FF6B00?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-8B1A1A?style=for-the-badge&logo=git&logoColor=FFD700)
-![Linux](https://img.shields.io/badge/Linux-FFD700?style=for-the-badge&logo=linux&logoColor=1a0a00)
+**`▸ AI / ML CORE`**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=FF007F)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=00FFFF)
+![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-000000?style=for-the-badge&logoColor=FF007F)
+![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=00FFFF)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=FF007F)
+![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=00FFFF)
+![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=FF007F)
+
+**`▸ SYSTEMS & TOOLS`**
+
+![Flutter](https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=00FFFF)
+![ROS](https://img.shields.io/badge/ROS-000000?style=for-the-badge&logo=ros&logoColor=FF007F)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00FFFF)
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=FF007F)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00FFFF)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=FF007F)
+![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=00FFFF)
 
 </div>
 
 ---
 
-## 🔭 What I'm Building
-
-> *"Every great model starts with a half-broken notebook at 2AM."*
-
-| 🚀 Project | 🧠 What it does | ⚙️ Stack |
-|---|---|---|
-| **🚁 [ValamTech](https://github.com/SanjaySiva-2437)** | Autonomous fertilizer drone — precision agriculture powered by computer vision & flight control AI | Python · OpenCV · ROS · PyTorch |
-| **🐄 [CattleGo](https://github.com/SanjaySiva-2437)** | Deep learning model that identifies cattle breeds from images — think facial recognition, but for cows | Python · TensorFlow · CNN · Flutter |
-| **🛸 GPS-Denied Drone** | Autonomous drone navigation without GPS — uses visual odometry & sensor fusion to find its own way | Python · OpenCV · IMU Fusion · ROS |
-| **⚽ Football Player Analysis** *(in progress)* | AI-powered football analytics — player tracking, movement patterns & performance insights from match footage | Python · PyTorch · YOLO · Coming Soon™ |
-
-> *"From fields to football pitches — teaching machines to navigate the real world."*
-
----
-
-## 📊 Stats from the Wasteland
+## `⟨ 02 ⟩` ◈ ACTIVE MISSIONS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SanjaySiva-2437&show_icons=true&theme=radical&bg_color=0d0208&title_color=FFD700&text_color=FF6B00&icon_color=00FFFF&border_color=8B1A1A&ring_color=FF6B00&hide_border=false&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjaySiva-2437&layout=compact&theme=radical&bg_color=0d0208&title_color=FFD700&text_color=FF6B00&border_color=8B1A1A&hide_border=false" height="165"/>
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│  ◈  MISSION BOARD — NIGHT CITY CONTRACTS                            │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+### 🚁 `[MISSION_01]` — ValamTech · *Autonomous Fertilizer Drone*
+> **STATUS:** `■■■■■■■■■■ COMPLETE` &nbsp;|&nbsp; **THREAT:** `★★★★☆`
+
+A fully autonomous agricultural drone that maps terrain, detects crop zones, and delivers precision fertilizer — no human in the loop. Computer vision meets flight control AI for real-world impact at scale.
+
+`Python` `OpenCV` `ROS` `PyTorch` `Flight Controller` `Computer Vision`
+
+---
+
+### 🐄 `[MISSION_02]` — CattleGo · *Cattle Breed Identification System*
+> **STATUS:** `■■■■■■■■■■ COMPLETE` &nbsp;|&nbsp; **THREAT:** `★★★☆☆`
+
+Deep learning model that identifies cattle breeds from images with high accuracy — facial recognition, but for livestock. Deployed as a cross-platform Flutter app to bring AI directly to farmers in the field.
+
+`Python` `TensorFlow` `CNN` `Flutter` `Dart` `Firebase`
+
+---
+
+### 🛸 `[MISSION_03]` — GPS-Denied Drone · *Eyes Without Satellites*
+> **STATUS:** `■■■■■■■■■■ COMPLETE` &nbsp;|&nbsp; **THREAT:** `★★★★★`
+
+Autonomous drone navigation where GPS is unavailable or jammed. Uses visual odometry, IMU sensor fusion and onboard SLAM to navigate blind — like a netrunner finding their way through a total blackout zone.
+
+`Python` `OpenCV` `IMU Fusion` `SLAM` `ROS` `Sensor Fusion`
+
+---
+
+### ⚽ `[MISSION_04]` — Football Player Analysis · *The Beautiful Game, Quantified*
+> **STATUS:** `▓▓░░░░░░░░ INITIALIZING` &nbsp;|&nbsp; **THREAT:** `★★★★☆`
+
+AI-powered football analytics engine — real-time player tracking, movement heatmaps, formation detection and performance insights extracted directly from match footage. Where sports meets deep learning.
+
+`Python` `PyTorch` `YOLOv8` `OpenCV` `ByteTrack` `Coming Soon™`
+
+---
+
+## `⟨ 03 ⟩` ◈ SYSTEM STATS
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=SanjaySiva-2437&show_icons=true&bg_color=000000&title_color=00FFFF&text_color=FF007F&icon_color=00FFFF&border_color=00FFFF&ring_color=FF007F&hide_border=false&count_private=true&include_all_commits=true" height="170"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjaySiva-2437&layout=compact&bg_color=000000&title_color=00FFFF&text_color=FF007F&border_color=00FFFF&hide_border=false&langs_count=8" height="170"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SanjaySiva-2437&background=000000&ring=00FFFF&fire=FF007F&currStreakLabel=00FFFF&sideLabels=FF007F&dates=555555&border=00FFFF&stroke=FF007F&sideNums=00FFFF&currStreakNum=FF007F" width="520"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SanjaySiva-2437&bg_color=000000&color=00FFFF&line=FF007F&point=00FFFF&area=true&area_color=001a1a&border_color=00FFFF&hide_border=false&custom_title=◈%20COMMIT%20FREQUENCY%20◈" width="100%"/>
+
+</div>
+
+---
+
+## `⟨ 04 ⟩` ◈ OPERATOR LORE
+
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════════╗
+║                   ◈  SYSTEM PROFILE ◈                    ║
+╠══════════════════╦════════════════════════════════════════╣
+║  🎵  AUDIO JACK  ║  Lo-fi × Hyperpop × Game OSTs          ║
+║  🎮  LAST PLAYED ║  Cyberpunk 2077 — V (Tech/Stealth)     ║
+║  🧠  LEARNING    ║  Diffusion Models · LLM Fine-tuning    ║
+║  ☕  FUEL TYPE   ║  Coffee → Code → Crash → Repeat        ║
+║  🌃  WORK HOURS  ║  10PM–3AM  (Night City Standard Time)  ║
+║  🔮  END GOAL    ║  Build AI that feels like magic        ║
+║  ⚡  WEAKNESS    ║  Open tabs > 47 at any given moment    ║
+╚══════════════════╩════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+## `⟨ 05 ⟩` ◈ QUEST LOG
+
+```
+  [✔]  Mastered ML & Deep Learning fundamentals
+  [✔]  Shipped end-to-end ML pipeline in production
+  [✔]  Built & flew a real autonomous drone  ──────── ValamTech 🚁
+  [✔]  Deployed a live CV identification system  ──── CattleGo 🐄
+  [✔]  Cracked GPS-denied navigation  ─────────────── Sensor Fusion 🛸
+  [ ]  Ship football player analysis model  ──────── ⚽ IN PROGRESS
+  [ ]  First open-source contribution with 100+ stars
+  [ ]  Publish a research paper  ─────────────────── 📄 PENDING
+  [ ]  Reach a FAANG / top AI lab  ───────────────── 🎯 LOCKED
+  [ ]  Build something used by 10,000+ people  ────── 🔮 FINAL MISSION
+```
+
+---
+
+## `⟨ 06 ⟩` ◈ JACK IN
+
+<div align="center">
+
+*Drop a message. Collaborate. Build something unhinged.*
+
+[![LinkedIn](https://img.shields.io/badge/◈_LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FFFF)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Twitter](https://img.shields.io/badge/◈_Twitter%2FX-000000?style=for-the-badge&logo=x&logoColor=FF007F)](https://twitter.com/YOUR_TWITTER)
+[![Gmail](https://img.shields.io/badge/◈_Email-000000?style=for-the-badge&logo=gmail&logoColor=00FFFF)](mailto:YOUR_EMAIL)
+[![Portfolio](https://img.shields.io/badge/◈_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=FF007F)](https://YOUR_PORTFOLIO)
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SanjaySiva-2437&theme=radical&background=0d0208&ring=FFD700&fire=FF6B00&currStreakLabel=00FFFF&sideLabels=FF6B00&dates=8B1A1A&border=8B1A1A&stroke=FF6B00" width="500"/>
-
-<br/>
-
-<!-- Activity graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SanjaySiva-2437&bg_color=0d0208&color=FFD700&line=FF6B00&point=00FFFF&area=true&area_color=8B1A1A&border_color=8B1A1A&hide_border=false" width="100%"/>
-
-</div>
-
----
-
-## 🎮 Side Quests & Lore
-
-```
-🎵  Music taste:   Hyperpop x Lo-fi x Game OSTs (RDR2 soundtrack hits different at 3AM)
-🎮  Currently:     Trying to finish every RDR2 side mission before my next deadline
-🌆  Night City:    V build optimized for stealth + tech (Cyberpunk main)
-🧠  Learning:      Diffusion Models, Reinforcement Learning, LLM fine-tuning
-☕  Fuel:          Coffee → Code → Crash → Repeat
-🔮  Dream:         Build AI that feels like magic, not math
-```
-
----
-
-## 🧭 Current Quest Log
-
-- [x] Learn the fundamentals of ML & Deep Learning
-- [x] Build first end-to-end ML pipeline
-- [x] Ship a real-world CV system (CattleGo 🐄)
-- [x] Build & fly an autonomous drone (ValamTech 🚁)
-- [x] Crack GPS-denied navigation with sensor fusion 🛸
-- [ ] Ship the football player analysis model ⚽
-- [ ] Contribute to a major open-source AI project
-- [ ] Publish a research paper 📄
-- [ ] Land a role at a company that's shaping AI
-- [ ] Build something that 10,000 people actually use
-
----
-
-## 🤝 Connect with me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
-[![Email](https://img.shields.io/badge/Email-FF6B00?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=vercel&logoColor=1a0a00)](https://YOUR_PORTFOLIO)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SanjaySiva-2437/SanjaySiva-2437/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SanjaySiva-2437/SanjaySiva-2437/output/github-contribution-grid-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/SanjaySiva-2437/SanjaySiva-2437/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
 
 </div>
 
@@ -145,6 +222,6 @@ sanjay = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,30:FFD700,60:FF6B00,80:8B1A1A,100:1a0a00&height=120&section=footer&text=May%20your%20loss%20curves%20always%20go%20down%20%F0%9F%A4%A0&fontSize=16&fontColor=FFD700&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:001a1a,100:000000&height=140&section=footer&text=Wake%20up%2C%20Sanjay.%20The%20model%20won%27t%20train%20itself.&fontSize=15&fontColor=00FFFF&fontAlignY=55&stroke=FF007F&strokeWidth=1&animation=fadeIn" width="100%"/>
 
 </div>
