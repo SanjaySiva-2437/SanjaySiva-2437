@@ -1,80 +1,21 @@
 <div align="center">
 
-<!-- CYBERPUNK LOGO STYLE NAME - Sharp italic, neon glow SVG -->
-<svg width="800" height="160" viewBox="0 0 800 160" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <filter id="neon-cyan">
-      <feGaussianBlur stdDeviation="4" result="blur1"/>
-      <feGaussianBlur stdDeviation="8" result="blur2"/>
-      <feGaussianBlur stdDeviation="16" result="blur3"/>
-      <feMerge>
-        <feMergeNode in="blur3"/>
-        <feMergeNode in="blur2"/>
-        <feMergeNode in="blur1"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-    <filter id="neon-pink">
-      <feGaussianBlur stdDeviation="3" result="blur1"/>
-      <feGaussianBlur stdDeviation="6" result="blur2"/>
-      <feMerge>
-        <feMergeNode in="blur2"/>
-        <feMergeNode in="blur1"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-    <linearGradient id="chrome" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" style="stop-color:#ffffff;stop-opacity:1"/>
-      <stop offset="35%" style="stop-color:#FF0000;stop-opacity:1"/>
-      <stop offset="70%" style="stop-color:#CC0000;stop-opacity:1"/>
-      <stop offset="100%" style="stop-color:#660000;stop-opacity:1"/>
-    </linearGradient>
-    <style>
-      .name-text {
-        font-family: 'Arial Black', 'Impact', sans-serif;
-        font-size: 88px;
-        font-weight: 900;
-        font-style: italic;
-        letter-spacing: -2px;
-        fill: url(#chrome);
-        filter: url(#neon-cyan);
-      }
-      .sub-text {
-        font-family: 'Arial', sans-serif;
-        font-size: 13px;
-        font-style: italic;
-        letter-spacing: 8px;
-        fill: #CC0000;
-        filter: url(#neon-pink);
-      }
-    </style>
-  </defs>
-  <rect width="800" height="160" fill="#000000"/>
-  <!-- Decorative slash lines like CP2077 logo -->
-  <polygon points="0,140 30,100 800,100 800,110 30,110 0,150" fill="#FF0000" opacity="0.15"/>
-  <polygon points="0,148 20,112 800,112 800,116 20,116 0,152" fill="#CC0000" opacity="0.1"/>
-  <!-- Main name -->
-  <text x="50%" y="108" text-anchor="middle" class="name-text">SANJAY SIVA</text>
-  <!-- Subtitle -->
-  <text x="50%" y="138" text-anchor="middle" class="sub-text">ML ENGINEER  ◈  AI RESEARCHER  ◈  BUILDER</text>
-</svg>
-
-<!-- SCANLINE DIVIDER -->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"/>
+<!-- HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0a0a2e,100:000000&height=200&section=header&text=SANJAY%20SIVA&fontSize=72&fontColor=4FC3F7&fontAlignY=45&desc=ML%20Engineer%20%E2%97%88%20AI%20Researcher%20%E2%97%88%20Builder&descAlignY=65&descSize=16&descColor=B39DDB&animation=fadeIn&stroke=4FC3F7&strokeWidth=1" width="100%"/>
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=2500&pause=800&color=FF0000&background=00000000&center=true&vCenter=true&width=650&lines=Training+models+that+actually+work.;Building+drones+that+think+for+themselves.;From+cattle+detection+to+football+analytics.;Always+learning.+Always+building." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=2500&pause=800&color=4FC3F7&background=00000000&center=true&vCenter=true&width=650&lines=Training+models+that+actually+work.;Building+drones+that+think+for+themselves.;From+cattle+detection+to+football+analytics.;Always+learning.+Always+building." alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- BADGES -->
 <a href="https://github.com/SanjaySiva-2437">
-  <img src="https://img.shields.io/github/followers/SanjaySiva-2437?label=Followers&style=for-the-badge&color=FF0000&labelColor=000000&logo=github&logoColor=FF0000"/>
+  <img src="https://img.shields.io/github/followers/SanjaySiva-2437?label=Followers&style=for-the-badge&color=4FC3F7&labelColor=0a0a2e&logo=github&logoColor=4FC3F7"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=SanjaySiva-2437&style=for-the-badge&color=CC0000&label=Profile+Views&labelColor=000000"/>
-<img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-FF3333?style=for-the-badge&labelColor=000000"/>
+<img src="https://komarev.com/ghpvc/?username=SanjaySiva-2437&style=for-the-badge&color=B39DDB&label=Profile+Views&labelColor=0a0a2e"/>
+<img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-4FC3F7?style=for-the-badge&labelColor=0a0a2e"/>
 
 </div>
 
@@ -110,7 +51,7 @@ sanjay = {
 
 ---
 
-## ◈ Tech Stack `// loadout`
+## ◈ Tech Stack
 
 <div align="center">
 
@@ -169,16 +110,16 @@ sanjay = {
 </tr>
 </table>
 
-![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-Transformers-CC0000?style=for-the-badge&labelColor=000000)
-![YOLOv8](https://img.shields.io/badge/⚡_YOLOv8-Object_Detection-FF0000?style=for-the-badge&labelColor=000000)
-![ROS](https://img.shields.io/badge/🤖_ROS-Robotics_OS-CC0000?style=for-the-badge&labelColor=000000)
-![SLAM](https://img.shields.io/badge/🛸_SLAM-Visual_Odometry-FF3333?style=for-the-badge&labelColor=000000)
+![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-Transformers-B39DDB?style=for-the-badge&labelColor=0a0a2e)
+![YOLOv8](https://img.shields.io/badge/⚡_YOLOv8-Object_Detection-4FC3F7?style=for-the-badge&labelColor=0a0a2e)
+![ROS](https://img.shields.io/badge/🤖_ROS-Robotics_OS-B39DDB?style=for-the-badge&labelColor=0a0a2e)
+![SLAM](https://img.shields.io/badge/🛸_SLAM-Visual_Odometry-4FC3F7?style=for-the-badge&labelColor=0a0a2e)
 
 </div>
 
 ---
 
-## ◈ Projects `// what I've built`
+## ◈ Projects
 
 ```
 ╔═══════════════════════════════════════════════════════════════════╗
@@ -196,13 +137,13 @@ sanjay = {
 ╠═══════════════════════════════════════════════════════════════════╣
 ║  Deep learning cattle breed identification system.               ║
 ║  Computer vision model + Flutter mobile app. Field-deployable.   ║
-║  Real-world CV applied to real-world agriculture.                ║
+║  Real-world CV applied to real-world agriculture.                 ║
 ║                                                                   ║
 ║  STACK →  Python · TensorFlow · CNN · Flutter · Firebase         ║
 ╚═══════════════════════════════════════════════════════════════════╝
 
 ╔═══════════════════════════════════════════════════════════════════╗
-║  🛸  GPS-DENIED DRONE                             [STATUS: DONE] ║
+║  🛸  GPS-DENIED DRONE                      [STATUS: IN PROGRESS] ║
 ╠═══════════════════════════════════════════════════════════════════╣
 ║  Autonomous drone navigation with zero GPS signal.               ║
 ║  Visual odometry + sensor fusion for self-localization.          ║
@@ -224,26 +165,26 @@ sanjay = {
 
 ---
 
-## ◈ GitHub Stats `// metrics`
+## ◈ GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SanjaySiva-2437&show_icons=true&bg_color=000000&title_color=FF0000&text_color=CC0000&icon_color=FF3333&border_color=FF0000&count_private=true&border_radius=0" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjaySiva-2437&layout=compact&bg_color=000000&title_color=FF0000&text_color=CC0000&border_color=FF0000&border_radius=0" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SanjaySiva-2437&show_icons=true&bg_color=0a0a2e&title_color=4FC3F7&text_color=E0E0E0&icon_color=B39DDB&border_color=4FC3F7&count_private=true&border_radius=8" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjaySiva-2437&layout=compact&bg_color=0a0a2e&title_color=4FC3F7&text_color=E0E0E0&border_color=4FC3F7&border_radius=8" height="170"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SanjaySiva-2437&background=000000&ring=FF0000&fire=CC0000&currStreakLabel=FF0000&sideLabels=FF3333&dates=555555&border=FF0000" width="520"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SanjaySiva-2437&background=0a0a2e&ring=4FC3F7&fire=B39DDB&currStreakLabel=4FC3F7&sideLabels=B39DDB&dates=E0E0E0&border=4FC3F7" width="520"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SanjaySiva-2437&bg_color=000000&color=FF0000&line=CC0000&point=FF3333&area=true&area_color=1a0000&border_color=FF0000" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SanjaySiva-2437&bg_color=0a0a2e&color=4FC3F7&line=B39DDB&point=ffffff&area=true&area_color=1a1a4e&border_color=4FC3F7" width="100%"/>
 
 </div>
 
 ---
 
-## ◈ About Me `// beyond the code`
+## ◈ About Me
 
 <div align="center">
 
@@ -261,14 +202,14 @@ sanjay = {
 
 ---
 
-## ◈ Goals `// what's next`
+## ◈ Goals
 
 ```
 [✓] Learned ML & Deep Learning fundamentals
-[✓] Shipped CattleGo — CV system deployed in the real world
-[✓] Built & flew ValamTech — autonomous precision agriculture drone
-[✓] Solved GPS-denied navigation with visual odometry & sensor fusion
-[ ] Ship Football Player Analysis AI
+[✓] Shipped CattleGo — CV system deployed in the real world 🐄
+[✓] Built & flew ValamTech — autonomous precision agriculture drone 🚁
+[ ] Complete GPS-denied drone navigation system 🛸  [▓▓▓▓▓░░░░░ 55%]
+[ ] Ship Football Player Analysis AI ⚽              [▓░░░░░░░░░ 10%]
 [ ] Contribute to a major open-source ML project
 [ ] Publish a research paper
 [ ] Land a role at a top-tier AI company
@@ -277,21 +218,21 @@ sanjay = {
 
 ---
 
-## ◈ Connect `// reach out`
+## ◈ Connect
 
 <div align="center">
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-FF0000?style=for-the-badge&logo=linkedin&logoColor=FF0000&labelColor=000000&color=000000"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-4FC3F7?style=for-the-badge&logo=linkedin&logoColor=4FC3F7&labelColor=0a0a2e&color=0a0a2e"/>
 </a>
 <a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Email-Get%20in%20touch-CC0000?style=for-the-badge&logo=gmail&logoColor=CC0000&labelColor=000000&color=000000"/>
+  <img src="https://img.shields.io/badge/Email-Get%20in%20touch-B39DDB?style=for-the-badge&logo=gmail&logoColor=B39DDB&labelColor=0a0a2e&color=0a0a2e"/>
 </a>
 <a href="https://twitter.com/YOUR_TWITTER">
-  <img src="https://img.shields.io/badge/Twitter-Follow-FF3333?style=for-the-badge&logo=twitter&logoColor=FF3333&labelColor=000000&color=000000"/>
+  <img src="https://img.shields.io/badge/Twitter-Follow-4FC3F7?style=for-the-badge&logo=twitter&logoColor=4FC3F7&labelColor=0a0a2e&color=0a0a2e"/>
 </a>
 <a href="https://YOUR_PORTFOLIO">
-  <img src="https://img.shields.io/badge/Portfolio-View%20Work-FF0000?style=for-the-badge&logo=vercel&logoColor=FF0000&labelColor=000000&color=000000"/>
+  <img src="https://img.shields.io/badge/Portfolio-View%20Work-B39DDB?style=for-the-badge&logo=vercel&logoColor=B39DDB&labelColor=0a0a2e&color=0a0a2e"/>
 </a>
 
 <br/><br/>
@@ -303,7 +244,5 @@ sanjay = {
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=glitch&color=0:000000,50:1a0000,100:000000&height=100&section=footer&text=Always+Learning.+Always+Building.&fontSize=22&fontColor=FF0000&fontAlignY=55&animation=glitch" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a0a2e,100:000000&height=120&section=footer&text=Always+Learning.+Always+Building.&fontSize=22&fontColor=4FC3F7&fontAlignY=55" width="100%"/>
 </div>
